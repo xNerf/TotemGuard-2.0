@@ -1,1 +1,2 @@
-"# TotemGuard-2.0" 
+# An Very Advanced And Best Anti Auto Totem Plugin
+### Forked From TotemGuard
